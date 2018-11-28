@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+ul{
+	margin: 40px;
+	list-style: none;
+}
+
+#btn-remove-1,#btn-remove-2,#btn-remove-3,#btn-remove-4,#btn-remove-5,#btn-remove-6{
+	display: none;
+}
+
+.black-out{
+	background-color: black;
+	color: pink;
+	font-size: 30px;
+}
+
